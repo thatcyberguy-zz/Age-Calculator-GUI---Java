@@ -1,8 +1,5 @@
 
 /**
- * File: AgeCalculatorGuiGui.java
- *Author: David Pierre
- *Date April 6, 2020
  *Purpose: This Age Calculator calculates the user's age from the user's date of birth with
   the current year.
 */
