@@ -1,7 +1,8 @@
 
 /**
+*File: AgeCalculatorGui.java
 *Author: David P
- *Purpose: This Age Calculator calculates the user's age from the user's date of birth with
+*Purpose: This Age Calculator calculates the user's age from the user's date of birth with
   the current year.
 */
 
